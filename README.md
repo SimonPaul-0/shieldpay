@@ -201,7 +201,6 @@ shieldpay/
 | Simon Paul | Full Stack + ML Engineer |
 | [Teammate 2] | [Role] |
 | [Teammate 3] | [Role] |
-| [Teammate 4] | [Role] |
 
 ---
 

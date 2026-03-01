@@ -10,14 +10,17 @@
 
 ## 📸 Screenshots
 
-### Dashboard & Live Feed
-![Dashboard](screenshots/dashboard.png)
+### Live Dashboard
+![Dashboard](Screenshot%202026-03-01%20200618.png)
+
+### Hero & Live Feed
+![Hero](Screenshot%202026-03-01%20200709.png)
 
 ### Transaction Analyzer
-![Analyzer](screenshots/analyzer.png)
+![Analyzer](Screenshot%202026-03-01%20200730.png)
 
-### Fraud Detection Result
-![Result](screenshots/result.png)
+### How It Works
+![How It Works](Screenshot%202026-03-01%20200742.png)
 
 ---
 

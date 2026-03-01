@@ -201,9 +201,9 @@ shieldpay/
 
 | Name | Role |
 |---|---|
-| Simon Paul | Full Stack + ML Engineer |
-| [Teammate 2] | [Role] |
-| [Teammate 3] | [Role] |
+| Simon Paul | Full Stack Developer + ML Engineer |
+| Varsha Rani | UI/UX Designer + Frontend Developer |
+| Mayank Bansal | Data Scientist + Backend Developer |
 
 ---
 
